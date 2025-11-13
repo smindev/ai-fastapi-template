@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Python tooling
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VSCode & macOS
+.vscode/
+.DS_Store
+
+# Local env files
+.env.local
+.env.*.local
+.envrc
+
+# Poetry / pip
+poetry.lock
+pip-wheel-metadata/
